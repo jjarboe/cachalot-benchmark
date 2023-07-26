@@ -1,0 +1,20 @@
+# Requirements file for benchmark.py
+
+django==3.2.5
+
+psycopg2
+psycopg
+mysqlclient
+django-redis
+python-memcached
+pymemcache
+pylibmc
+
+pytz
+Jinja2
+
+django-debug-toolbar
+beautifulsoup4
+
+pandas
+matplotlib
